@@ -79,6 +79,12 @@
   name = "mhartington/oceanic-next"
   merged = 0
 
+[[custom_plugins]]
+  name = "roxma/nvim-yarp"
+
+[[custom_plugins]]
+  name = "roxma/vim-hug-neovim-rpc"
+
 # coc.nvim 核心配置，不要删除
 [[custom_plugins]]
   name = 'neoclide/coc.nvim'
