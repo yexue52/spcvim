@@ -1,1 +1,1 @@
-colorscheme SpaceVim
+colorscheme slate

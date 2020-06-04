@@ -145,5 +145,4 @@ func! myspacevim#after() abort
     set nofoldenable
 endf
 
-colorscheme slate
 noremap <F8> :CocList symbols<cr>
