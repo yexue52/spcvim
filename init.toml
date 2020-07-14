@@ -89,7 +89,7 @@
 [[custom_plugins]]
   name = 'neoclide/coc.nvim'
   merge = 0
-  build =  'yarn install --frozen-lockfile'
+#build =  'yarn install --frozen-lockfile'
 
 # 主要用于快速搜索 文件, buffer 和 函数
 [[custom_plugins]]
